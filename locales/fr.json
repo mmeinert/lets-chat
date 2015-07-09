@@ -73,5 +73,9 @@
 	"Slug": "Label",
 	"XMPP/Jabber": "XMPP/Jabber",
 	"Private?": "Privé ?",
-	"Empty for public room": "Vide pour salon public"
+	"Empty for public room": "Vide pour salon public",
+	"Toggle Navigation": "Basculer la Navigation",
+	"Home": "Accueil",
+	"Toggle Sidebar": "Basculer la Barre latérale",
+	"Close": "Fermer"
 }
